@@ -1,5 +1,5 @@
 # 💫 About Me:
-We are team of Professional Programmers with expertise in Website, Mobile App and Desktop App Development. We have experts for almost all the modern Development tools and languages.
+Hi there! 👋 I'm Sanjit Kumar, a passionate of FrontEnd Developer based in Startup Company. I enjoy   and am always eager to learn and explore new technologies..
 
 
 ## 🌐 Socials:
